@@ -1,0 +1,9 @@
+@import "variaveis";
+@import "header";
+@import "principal";
+
+body {
+    background-color: $bg-primario;
+    font-family: sans-serif;
+    margin: 0;
+}
